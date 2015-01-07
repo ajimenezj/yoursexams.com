@@ -19,6 +19,55 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_/components/php/snippet-feature.php",
+			"settings":
+			{
+				"buffer_size": 670,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/components/php/footer.php",
+			"settings":
+			{
+				"buffer_size": 397,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/components/less/_mystyle.less",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 507,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/components/php/piwik.php",
+			"settings":
+			{
+				"buffer_size": 623,
+				"line_ending": "Windows",
+				"name": "<!-- Piwik -->"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -44,6 +93,13 @@
 	},
 	"file_history":
 	[
+		"/X/yoursexams.com/_/components/css/theme.css",
+		"/X/yoursexams.com/contact.php",
+		"/X/yoursexams.com/index.php",
+		"/X/yoursexams.com/_/components/php/header.php",
+		"/X/yoursexams.com/_/components/php/analyticstracking.php",
+		"/X/yoursexams.com/_/components/php/footer.php",
+		"/X/yoursexams.com/_/components/php/snippet-contactform.php",
 		"/X/iksnumbers.com/index.php",
 		"/X/iksnumbers.com/_/components/less/bootstrap.less",
 		"/X/iksnumbers.com/_/css/bootstrap.css",
@@ -103,8 +159,173 @@
 	"groups":
 	[
 		{
+			"selected": 3,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 2457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_/components/php/snippet-feature.php",
+					"settings":
+					{
+						"buffer_size": 670,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 6,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_/components/php/footer.php",
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_/components/less/_mystyle.less",
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".htaccess",
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_/components/php/piwik.php",
+					"settings":
+					{
+						"buffer_size": 623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								623,
+								623
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<!-- Piwik -->",
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

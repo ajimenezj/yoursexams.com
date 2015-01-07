@@ -14,14 +14,13 @@
     <link rel="stylesheet" type="text/css" href="_/fancybox/fancybox.css?v=2.1.5" media="screen" />
     <link rel="icon" type="image/ico" href="images/favicon/favicon.ico">
   </head>
-  <body id="home">
+  <body id="oracle">
     <section class="container">
       <div class="content row">
         <?php include "_/components/php/header.php"; ?> <!-- Header of the webpage -->  
-        <?php include "_/components/php/snippet-feature.php"; ?> <!-- Feature jumbothum -->  
 
         <section class="main col col-lg-8">
-        <!--  <?php include "_/components/php/snippet-pricetable.php"; ?> --> <!-- Prices table -->                  
+          <?php include "_/components/php/snippet-oracle.php"; ?>  <!-- Prices table -->                  
         </section><!-- main -->
         
         <section class="sidebar col col-lg-4">
